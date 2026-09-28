@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Skill Swap Buddy System",
+  "description": "A secure college peer-learning platform where junior students can learn from verified senior students with strict role-based access control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
